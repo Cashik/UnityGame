@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: b98b8b0454acae04e810bec434a20ab7
+timeCreated: 1456678342
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_0
+    21300002: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_1
+    21300004: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_2
+    21300006: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_3
+    21300008: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_4
+    21300010: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_5
+    21300012: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_6
+    21300014: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_7
+    21300016: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_8
+    21300018: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_9
+    21300020: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_10
+    21300022: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_11
+    21300024: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_12
+    21300026: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_13
+    21300028: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_14
+    21300030: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_15
+    21300032: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_16
+    21300034: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_17
+    21300036: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_18
+    21300038: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_19
+    21300040: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_20
+    21300042: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_21
+    21300044: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_22
+    21300046: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_23
+    21300048: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_24
+    21300050: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_25
+    21300052: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_26
+    21300054: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_27
+    21300056: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_28
+    21300058: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_29
+    21300060: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_30
+    21300062: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_31
+    21300064: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_32
+    21300066: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_33
+    21300068: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_34
+    21300070: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_35
+    21300072: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_36
+    21300074: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_37
+    21300076: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_38
+    21300078: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_39
+    21300080: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_40
+    21300082: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_41
+    21300084: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_42
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 410
+        width: 67
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 401
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 19.5}
+        - {x: -36, y: 0.5}
+        - {x: -36, y: -17.5}
+        - {x: -29, y: -19.5}
+        - {x: 28, y: -19.5}
+        - {x: 36, y: -11.5}
+        - {x: 36, y: 6.5}
+        - {x: 19, y: 19.5}
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 402
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16}
+        - {x: -39, y: 12}
+        - {x: -39, y: -10}
+        - {x: -13, y: -16}
+        - {x: 20, y: -16}
+        - {x: 39, y: -9}
+        - {x: 39, y: 8}
+        - {x: 22, y: 16}
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 410
+        width: 70
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 366
+        width: 73
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 363
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 366
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 367
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 331
+        width: 72
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 329
+        width: 71
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 329
+        width: 71
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 326
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 297
+        width: 74
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 295
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 297
+        width: 71
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 297
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 258
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 258
+        width: 68
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 258
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 264
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 178
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 35}
+        - {x: -37, y: 21}
+        - {x: -37, y: 8}
+        - {x: -17, y: 2}
+        - {x: -11, y: 1}
+        - {x: -36, y: -26}
+        - {x: -36, y: -35}
+        - {x: 37, y: -35}
+        - {x: 37, y: 26}
+        - {x: 19, y: 35}
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 180
+        width: 78
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 206
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 206
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 206
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -7}
+        - {x: -11, y: -19}
+        - {x: 21, y: -19}
+        - {x: 32, y: -5}
+        - {x: 32, y: 7}
+        - {x: 20, y: 19}
+        - {x: -20, y: 19}
+        - {x: -32, y: 9}
+        - {x: -32, y: -19}
+        - {x: -15, y: -19}
+        - {x: -11, y: -15}
+        - {x: -11, y: -12}
+        - {x: -13, y: -7}
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 180
+        width: 78
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 180
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 137
+        width: 74
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 136
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 137
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 137
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 105
+        width: 75
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 99
+        width: 77
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 105
+        width: 75
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 102
+        width: 70
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 59
+        width: 70
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 57
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 59
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 9.5}
+        - {x: 4.5, y: 16.5}
+        - {x: -7.5, y: 16.5}
+        - {x: -36.5, y: -9.5}
+        - {x: -36.5, y: -16.5}
+        - {x: 36.5, y: -16.5}
+        - {x: 36.5, y: -11.5}
+        - {x: 31.5, y: -5.5}
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 60
+        width: 76
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 17
+        width: 75
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 12
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -6}
+        - {x: 18, y: 16}
+        - {x: -13, y: 16}
+        - {x: -34, y: 7}
+        - {x: -34, y: -16}
+        - {x: 17, y: -16}
+        - {x: 30, y: -15}
+        - {x: 34, y: -14}
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 17
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vintage-ufo-flying-saucer-shapes-silhouettes_181994714 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 17
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
